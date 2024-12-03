@@ -63,6 +63,12 @@ top-menu li a:hover::after {
     font-weight: 200px;
 }
 
+.main-carousel .carousel-caption {
+    background-color: #34343433;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
 /* Carousel */
 
 
@@ -130,6 +136,41 @@ top-menu li a:hover::after {
 /* Product card */
 
 
+/* Reeviews */
+.reviews {
+    background-color: #343434;
+}
+
+.reviews h1 {
+    text-align: center;
+    color: #c8c8c8;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+/* Reeviews */
+
+
+/* Geo */
+.section-map {
+    background-color: #fff;
+}
+
+.section-map-content h1 {
+    font-weight: 200;
+    color: #343434;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section-map-content iframe {
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+/* Geo */
+
+
 /* Footer */
 .footer {
     background-color: #343434;
@@ -189,3 +230,4 @@ top-menu li a:hover::after {
 .btn-close {
     background-color: #c8c8c8;
 }
+/* Modal */
