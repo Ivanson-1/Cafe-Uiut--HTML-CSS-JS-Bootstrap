@@ -148,6 +148,10 @@ top-menu li a:hover::after {
     margin-bottom: 20px;
 }
 
+.reviews .carousel-item {
+    padding: 20px;
+}
+
 /* Reeviews */
 
 
